@@ -1,4 +1,3 @@
-# Hidaayah-club
 <!DOCTYPE html>
 <html lang="en">
 <head>
