@@ -71,32 +71,7 @@
       color: white;
       text-align: center;
       padding: 15px;
-      margin-top: 40px;
-    }
-  </style>
-</head>
-<body>
 
-  <header>Hidaayah Club</header>
-
-  <nav>
-    <a href="#">Home</a>
-    <a href="#">Hadith</a>
-    <a href="#">Articles</a>
-    <a href="#">Donate</a>
-    <a href="#">About</a>
-  </nav>
-
-  <section class="hero">
-    <h2>Today's Hadith</h2>
-    <p>"The best among you are those who have the best manners and character." <br>— Prophet Muhammad (ﷺ)</p>
-  </section>
-
-  <div class="content">
-    <div class="hadith-card">
-      <h3>Hadith on Kindness</h3>
-      <p>“Allah is kind and loves kindness in all matters.” <br>— Sahih al-Bukhari 6528</p>
-    </div>
 
     <div class="hadith-card">
       <h3>Hadith on Intentions</h3>
